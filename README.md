@@ -1,4 +1,5 @@
 # Technologies used to build Ordo
+Joshua Truong, Ramy Farah, Ishan Kumar
 * [X] Service-oriented Architecture - (Folders Frontend, REST API, Ingestion Service, Rating Service)
 * [X] Frontend - React js, D3, CI/CD pipeline
 * [X] Rest API - Python Flask
