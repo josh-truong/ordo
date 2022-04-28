@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: root
+  CLOUD_SQL_PASSWORD: OrdoAtls4214!
+  CLOUD_SQL_DATABASE_NAME: ORDO
+  CLOUD_SQL_CONNECTION_NAME: lyrical-cacao-345508:us-central1:ordodb
