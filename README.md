@@ -8,3 +8,5 @@ Joshua Truong, Ramy Farah, Ishan Kumar
 * [X] MySQL DB - Cloud SQL
 * [X] Netlify
 * [X] Google Cloud Platform (GCP)
+
+![Demo Site Image](https://github.com/josh-truong/ordo/blob/main/demo.png)
